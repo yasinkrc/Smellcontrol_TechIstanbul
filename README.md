@@ -1,4 +1,3 @@
-![SmellControl Sensör Prototipi]("C:\Users\ismai\OneDrive\Masaüstü\foto_tech.jpg")
 
 
 # SmellControl: Toplu Taşıma için Akıllı Koku Algılama Sistemi
