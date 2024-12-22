@@ -58,7 +58,9 @@ Hackathon süresince yazılım geliştirme odaklı bir yaklaşım benimsenmişti
 
 Hackathon sırasında geliştirdiğimiz yazılımla ilgili sorularınız için bizimle iletişime geçebilirsiniz:
 
-- **E-posta**:karacayasin447@gmail.com 
+- **E-posta**:karacayasin447@gmail.com -- Yasin Karaca  
+- **E-posta**:asiyesudetayipoglu@gmail.com  -- Sude Tayıpoğlu
+- **E-posta**:omr.akyldrm@gmail.com -- Ömer Akyıldırım 
 ---
 
 ### Proje, Tech Istanbul: İstanbul'un Toplu Ulaşımında Akılcı Çözümler Hackathonu'nda geliştirilmiştir ve yazılım kısmına odaklanmaktadır.
